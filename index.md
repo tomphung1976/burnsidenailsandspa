@@ -11,7 +11,7 @@ pricing: price.md
   <div class="w3-row" id="about">
     <div class="w3-col l6">
       <div class="w3-col m6">
-      <img src="{{ site.url }}/assets/images/aboutus01.png" class="w3-round w3-image w3-right" alt="about us" width="200" height="200">
+      <img src="/assets/images/aboutus01.png" class="w3-round w3-image w3-right" alt="about us" width="200" height="200">
       </div>
       <div class="w3-col m6">
       <img src="{{ site.url }}/assets/images/aboutus03.png" class="w3-round w3-image" alt="about us" width="200" height="200">

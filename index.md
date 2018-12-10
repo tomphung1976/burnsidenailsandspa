@@ -14,13 +14,13 @@ pricing: price.md
       <img src="/assets/images/aboutus01.png" class="w3-round w3-image w3-right" alt="about us" width="200" height="200">
       </div>
       <div class="w3-col m6">
-      <img src="{{ site.url }}/assets/images/aboutus03.png" class="w3-round w3-image" alt="about us" width="200" height="200">
+      <img src="/assets/images/aboutus03.png" class="w3-round w3-image" alt="about us" width="200" height="200">
       </div>
       <div class="w3-col m6">
-      <img src="{{ site.url }}/assets/images/aboutus04.png" class="w3-round w3-image w3-right" alt="about us" width="200" height="200">
+      <img src="/assets/images/aboutus04.png" class="w3-round w3-image w3-right" alt="about us" width="200" height="200">
       </div>
       <div class="w3-col m6">
-      <img src="{{ site.url }}/assets/images/aboutus02.png" class="w3-round w3-image" alt="about us" width="200" height="200">
+      <img src="/assets/images/aboutus02.png" class="w3-round w3-image" alt="about us" width="200" height="200">
       </div>
     </div>
     <div class="w3-col l1" style="padding-left:10px;" >
@@ -45,7 +45,7 @@ pricing: price.md
     <div class="w3-center w3-padding-large">
         <h4> Best Deals </h4>
         <h1 style="font-size:50px; color:#5d5b5b;">Special Pricing</h1>
-        <img src="{{ site.url }}/assets/images/breakline01.png" class="w3-round w3-image" width="500" height="70%">
+        <img src="/assets/images/breakline01.png" class="w3-round w3-image" width="500" height="70%">
     </div>
     <div class="w3-row price border dropShadow">
           {% for g in site.data.price.groups %}
@@ -80,7 +80,7 @@ pricing: price.md
       <h2 class="w3-right">Packages & Specials </h2>
     </div>
     <div class="w3-col l6">
-    <img src="{{ site.url }}/assets/images/specials04.png" class="w3-round w3-image" alt="Menu" width="600" height="500">
+    <img src="/assets/images/specials04.png" class="w3-round w3-image" alt="Menu" width="600" height="500">
    </div>
 
    <div class="w3-col l6 w3-right">
@@ -97,11 +97,11 @@ pricing: price.md
    <div class="w3-row w3-padding-32" id="reviews">
    <div class="w3-col l12">
     <h1 class="w3-center">Feature in CliqueMag</h1><br>
-   <img src="{{ site.url }}/assets/images/clique.png" class="w3-round w3-image" alt="Menu" width="auto" height="750">
+   <img src="/assets/images/clique.png" class="w3-round w3-image" alt="Menu" width="auto" height="750">
    </div>
     <div class="w3-col l12">
 	 <h1 class="w3-center">Reviews</h1><br>
-    <img src="{{ site.url }}/assets/images/yelp.png" class="w3-round w3-image w3-right dropShadow" alt="Menu" width="auto" height="750">
+    <img src="/assets/images/yelp.png" class="w3-round w3-image w3-right dropShadow" alt="Menu" width="auto" height="750">
    </div>
   </div>
 

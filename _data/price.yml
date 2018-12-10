@@ -1,0 +1,245 @@
+groups:
+- group:
+  description: Shellac
+  subTitles:
+    - name:
+  items:
+    - name: Manicure With Shellac
+      description:
+      price: $35
+      image:
+    - name: Pedicure With Shellac
+      description:
+      price: $45
+      image:
+    - name: Spa Pedicure With Shellac
+      description:
+      price: $50
+      image:
+    - name: Spa Pedicure & Manicure
+      description:
+      price: $80
+      image:
+    - name: Buff, Shape Shellac Hand
+      description:
+      price: $25
+      image:
+    - name: Buff, Shape Shellac Toes
+      description:
+      price: $30
+      image:
+    - name: French Shellac (extra)
+      description:
+      price: $5
+      image:
+    - name: Shellac Removal (Free If Re-Apply)
+      description:
+      price: $10
+      image:
+
+- group:
+  description: Manicure & Pedicure
+  subTitles:
+    - name:
+  items:
+    - name: Manicure
+      description:
+      price: $20
+      image:
+    - name: Regular Pedicure
+      description:
+      price: $30
+      image:
+    - name: Spa Pedicure
+      description:
+      price: $35
+      image:
+    - name: Burnside Deluxe Pedicure
+      description:
+      price: $40
+      image:
+    - name: Spa Pedicure & Manicure
+      description:
+      price: $50
+      image:
+    - name: Buff, Shape & Polish Hands
+      description:
+      price: $12
+      image:
+    - name: Buff, Shape & Polish Toes
+      description:
+      price: $15
+      image:
+    - name: Exfoliation/Paraffin/Clay Mask
+      description:
+      price: $5
+      image:
+    - name: Nails Art/Frence Polish
+      description:
+      price: $5 each
+      image:
+    - name: Repair
+      description:
+      price: $5 each
+      image:
+
+- group:
+  description: Acrylic & Gel Nails
+  subTitles:
+  - name:
+  items:
+    - name: Full Set French White Powder
+      description:
+      price: $45
+      image:
+    - name: French Refill
+      description:
+      price: $40
+      image:
+    - name: Full Set Acrylic White/Clear Tips
+      description:
+      price: $40
+      image:
+    - name: Acrylic Refill
+      description:
+      price: $30
+      image:
+    - name: Glitter Full Set
+      description:
+      price: $60
+      image:
+    - name: Glitter Refill
+      description:
+      price: $45
+      image:
+    - name: Overlay
+      description:
+      price: $40
+      image:
+    - name: Party Tips Full Set
+      description:
+      price: $30
+      image:
+    - name: Colour Or Design Tips
+      description:
+      price: $50
+      image:
+    - name: Full Set Toes
+      description:
+      price: $60
+      image:
+    - name: Gel Poweder Full Set
+      description:
+      price: $45
+      image:
+    - name: Refill Gel Poweder
+      description:
+      price: $35
+      image:
+    - name: Acrylic / Gel Removal
+      description:
+      price: $20
+      image:
+    - name: Nail repair
+      description:
+      price: from $5 each
+      image:
+    - name: Gel Poweder/Permanent Gloss/Long Pointing Shape
+      description: Please present student cards & receive stuent special (Highschool Student ONLY)
+      price: $5
+      image:
+    - name: Full Set Acrylic With Normal Polish/Clear
+      description:
+      price: $25
+      image:
+    - name: Take Off Acrylic
+      description:
+      price: $5
+      image:
+
+- group:
+  description: TINT
+  subTitles:
+  - name:
+  items:
+    - name: Lash Tint
+      description:
+      price: $20
+      image:
+    - name: Brown Tint
+      description:
+      price: $15
+      image:
+    - name: Lash & Brown Tint
+      description:
+      price: $25
+      image:
+
+- group:
+  description: SNS Health Natural Nails
+  subTitles:
+  - name: SNS Natural Nail Systems
+  items:
+  - name: Full Set Clear
+    description:
+    price: $50
+    image:
+  - name: Full Set Colour
+    description:
+    price: $55
+    image:
+  - name: Full Set French (White & Pink)
+    description:
+    price: $60
+    image:
+  - name: Overlay SNS (Full Colour)
+    description:
+    price: $45
+    image:
+  - name: Extras
+    description: Coffin Shape, Pointing Shape Extra
+    price: $5
+    image:
+
+
+- group:
+  description: Waxing
+  subTitles:
+  - name:
+  items:
+    - name: Full leg
+      description:
+      price: $38
+      image:
+    - name: 3/4 Leg
+      description:
+      price: $28
+      image:
+    - name: 1/2 Leg
+      description:
+      price: $20
+      image:
+    - name: Full Arms
+      description:
+      price: $25
+      image:
+    - name: 1/2 Arm
+      description:
+      price: $20
+      image:
+    - name: Under Arm
+      description:
+      price: $15
+      image:
+    - name: Eyebrows
+      description:
+      price: $12
+      image:
+    - name: Lips
+      description:
+      price: $10
+      image:
+    - name: Chin/Side Face
+      description:
+      price: $15
+      image:

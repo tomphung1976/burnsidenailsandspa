@@ -117,7 +117,7 @@ pricing: price.md
             Monday - Friday: 9am - 5:30pm <br>
             Thursday: 9am - 9pm <br>
             Saturday: 9am - 5pm <br>
-            Sunday : 11am - 9pm
+            Sunday : 11am - 5pm
             </li>            
             <li>Shop 5, 384-390 Greenhill Road, Glenside, SA, 5065</li>
             <li>Phone:  (08) 8338 6616 </li>

@@ -26,7 +26,6 @@
       <a href="#about" class="w3-left">About us</a>
       <a href="#services" class="w3-left">Services</a>
       <a href="#specials" class="w3-left">Specials</a>
-      <a href="#priceList" class="w3-left" onclick="$('#priceModal').show();">Price list</a>
       <a href="#contact" class="w3-left w3-margin-right">Contact</a>
     </li>
     </ul>

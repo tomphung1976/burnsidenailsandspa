@@ -85,7 +85,7 @@ pricing: price.md
             Saturday: 9am - 5pm <br>
             Sunday : 11am - 5pm
             </li>            
-            <li>Shop 5, 384-390 Greenhill Road, Glenside, SA, 5065</li>
+            <li>Shop 67 Burnside Village, 447 Portrush Road, Glenside, SA 5065</li>
             <li>Phone:  (08) 8338 6616 </li>
             <li>After hours: 0488896868 </li>
             <li>Email: contactus@burnsidenailsandspa.com</li>

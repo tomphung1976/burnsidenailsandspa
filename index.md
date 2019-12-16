@@ -14,7 +14,7 @@ pricing: price.md
       	<img src="/assets/images/aboutus01.png" class="w3-round w3-image" alt="about us" style="height: 400px;">
       </div>
       <div class="w3-col m6" style="padding-left:.5em">
-          <div class="w3-col l12" style="padding-left: .5em;">
+          <div class="w3-col l12">
           	<img src="/assets/images/aboutus04.png" class="w3-round w3-image" alt="about us" width="200" height="200">
           </div>
           <div class="w3-col l12">

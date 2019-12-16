@@ -9,20 +9,20 @@ pricing: price.md
 
   <!-- About Section -->
   <div class="w3-row" id="about">
-    <div class="w3-col l6">
+   <div class="w3-col l6">
       <div class="w3-col m6">
-      <img src="/assets/images/aboutus01.png" class="w3-round w3-image w3-right" alt="about us" width="200" height="200">
+      	<img src="/assets/images/aboutus01.png" class="w3-round w3-image" alt="about us" style="height: 400px;">
       </div>
-      <div class="w3-col m6">
-      <img src="/assets/images/aboutus03.png" class="w3-round w3-image" alt="about us" width="200" height="200">
-      </div>
-      <div class="w3-col m6">
-      <img src="/assets/images/aboutus04.png" class="w3-round w3-image w3-right" alt="about us" width="200" height="200">
-      </div>
-      <div class="w3-col m6">
-      <img src="/assets/images/aboutus02.png" class="w3-round w3-image" alt="about us" width="200" height="200">
-      </div>
-    </div>
+    
+      <div class="w3-col m6" style="padding-left:.5em">
+          <div class="w3-col l12" style="padding-left: .5em;">
+          	<img src="/assets/images/aboutus04.png" class="w3-round w3-image" alt="about us" width="200" height="200">
+          </div>
+          <div class="w3-col l12">
+          	<img src="/assets/images/aboutus02.png" class="w3-round w3-image" alt="about us" width="200" height="200">
+          </div>
+    	</div>
+   </div>
     <div class="w3-col l1" style="padding-left:10px;" >
     <div class="vertical-text">
       <h2>ABOUT US</h2>
